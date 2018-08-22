@@ -12,6 +12,16 @@
 		FA0BB283212D060900235444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB281212D060900235444 /* Main.storyboard */; };
 		FA0BB285212D060900235444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB284212D060900235444 /* Assets.xcassets */; };
 		FA0BB288212D060900235444 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB286212D060900235444 /* LaunchScreen.storyboard */; };
+		FA0BB29A212D0D7500235444 /* 绿-0@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB290212D0D7500235444 /* 绿-0@3x.png */; };
+		FA0BB29B212D0D7500235444 /* 绿-1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB291212D0D7500235444 /* 绿-1@3x.png */; };
+		FA0BB29C212D0D7500235444 /* 绿-2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB292212D0D7500235444 /* 绿-2@3x.png */; };
+		FA0BB29D212D0D7500235444 /* 绿-3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB293212D0D7500235444 /* 绿-3@3x.png */; };
+		FA0BB29E212D0D7500235444 /* 绿-4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB294212D0D7500235444 /* 绿-4@3x.png */; };
+		FA0BB29F212D0D7500235444 /* 绿-5@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB295212D0D7500235444 /* 绿-5@3x.png */; };
+		FA0BB2A0212D0D7500235444 /* 绿-6@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB296212D0D7500235444 /* 绿-6@3x.png */; };
+		FA0BB2A1212D0D7500235444 /* 绿-7@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB297212D0D7500235444 /* 绿-7@3x.png */; };
+		FA0BB2A2212D0D7500235444 /* 绿-8@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB298212D0D7500235444 /* 绿-8@3x.png */; };
+		FA0BB2A3212D0D7500235444 /* 绿-9@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA0BB299212D0D7500235444 /* 绿-9@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		FA0BB284212D060900235444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA0BB287212D060900235444 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA0BB289212D060900235444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA0BB290212D0D7500235444 /* 绿-0@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-0@3x.png"; sourceTree = "<group>"; };
+		FA0BB291212D0D7500235444 /* 绿-1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-1@3x.png"; sourceTree = "<group>"; };
+		FA0BB292212D0D7500235444 /* 绿-2@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-2@3x.png"; sourceTree = "<group>"; };
+		FA0BB293212D0D7500235444 /* 绿-3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-3@3x.png"; sourceTree = "<group>"; };
+		FA0BB294212D0D7500235444 /* 绿-4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-4@3x.png"; sourceTree = "<group>"; };
+		FA0BB295212D0D7500235444 /* 绿-5@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-5@3x.png"; sourceTree = "<group>"; };
+		FA0BB296212D0D7500235444 /* 绿-6@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-6@3x.png"; sourceTree = "<group>"; };
+		FA0BB297212D0D7500235444 /* 绿-7@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-7@3x.png"; sourceTree = "<group>"; };
+		FA0BB298212D0D7500235444 /* 绿-8@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-8@3x.png"; sourceTree = "<group>"; };
+		FA0BB299212D0D7500235444 /* 绿-9@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "绿-9@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,7 @@
 		FA0BB27C212D060900235444 /* Swift_HigherOrderFunction_caculateFileSize */ = {
 			isa = PBXGroup;
 			children = (
+				FA0BB28F212D0D7500235444 /* Log */,
 				FA0BB27D212D060900235444 /* AppDelegate.swift */,
 				FA0BB27F212D060900235444 /* ViewController.swift */,
 				FA0BB281212D060900235444 /* Main.storyboard */,
@@ -62,6 +83,23 @@
 				FA0BB289212D060900235444 /* Info.plist */,
 			);
 			path = Swift_HigherOrderFunction_caculateFileSize;
+			sourceTree = "<group>";
+		};
+		FA0BB28F212D0D7500235444 /* Log */ = {
+			isa = PBXGroup;
+			children = (
+				FA0BB290212D0D7500235444 /* 绿-0@3x.png */,
+				FA0BB291212D0D7500235444 /* 绿-1@3x.png */,
+				FA0BB292212D0D7500235444 /* 绿-2@3x.png */,
+				FA0BB293212D0D7500235444 /* 绿-3@3x.png */,
+				FA0BB294212D0D7500235444 /* 绿-4@3x.png */,
+				FA0BB295212D0D7500235444 /* 绿-5@3x.png */,
+				FA0BB296212D0D7500235444 /* 绿-6@3x.png */,
+				FA0BB297212D0D7500235444 /* 绿-7@3x.png */,
+				FA0BB298212D0D7500235444 /* 绿-8@3x.png */,
+				FA0BB299212D0D7500235444 /* 绿-9@3x.png */,
+			);
+			path = Log;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +161,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA0BB2A2212D0D7500235444 /* 绿-8@3x.png in Resources */,
+				FA0BB2A0212D0D7500235444 /* 绿-6@3x.png in Resources */,
+				FA0BB29E212D0D7500235444 /* 绿-4@3x.png in Resources */,
+				FA0BB29F212D0D7500235444 /* 绿-5@3x.png in Resources */,
+				FA0BB29B212D0D7500235444 /* 绿-1@3x.png in Resources */,
+				FA0BB29A212D0D7500235444 /* 绿-0@3x.png in Resources */,
 				FA0BB288212D060900235444 /* LaunchScreen.storyboard in Resources */,
 				FA0BB285212D060900235444 /* Assets.xcassets in Resources */,
+				FA0BB29D212D0D7500235444 /* 绿-3@3x.png in Resources */,
+				FA0BB29C212D0D7500235444 /* 绿-2@3x.png in Resources */,
+				FA0BB2A3212D0D7500235444 /* 绿-9@3x.png in Resources */,
 				FA0BB283212D060900235444 /* Main.storyboard in Resources */,
+				FA0BB2A1212D0D7500235444 /* 绿-7@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
